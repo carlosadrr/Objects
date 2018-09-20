@@ -19,4 +19,4 @@ HAVING
     Count(Posts.Id) > 10
 ORDER BY
     [Average Answer Score] DESC
-OPTION (RECOMPILE)
+----OPTION (RECOMPILE)
